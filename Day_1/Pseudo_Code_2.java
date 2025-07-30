@@ -3,8 +3,8 @@ public class Main {
         int a = 1;
         while (a < 5) {
             a = a + 2;
-            System.out.println(a);
         }
+        System.out.println(a);
     }
 }
 
